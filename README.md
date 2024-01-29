@@ -1,4 +1,4 @@
-# ChatGPT-Hate-Speech
+# ChatGPT-HateSpeech
 
 ## Repository Contents
 This repository contains code for the Ben Gurion University "Natural Language Processing (372.2.5702)" course project. This code was created with <b> Python(3.9.15), pandas, numpy and more libraries</b>.
