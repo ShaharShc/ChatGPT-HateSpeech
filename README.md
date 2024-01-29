@@ -10,7 +10,7 @@ This repository contains code for the Ben Gurion University "Natural Language Pr
 ## Project Setup and Run:
 
 1. Clone this repository.
-2. Open cmd/shell/terminal and go to project folder: `cd ChatGPT-Hate-Speech`
+2. Open cmd/shell/terminal and go to project folder: `cd ChatGPT-HateSpeech`
 3. Create conda environment: `conda env create -f environment.yml`
 4. Create token.txt file and insert you ChatGPT token:
     - Go to [ChatGPT](https://chat.openai.com/api/auth/session)
